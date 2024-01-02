@@ -7,5 +7,5 @@
 /test5.txt
 out
 gen
-!/test4.txt
-!/test2.txt
+/test4.txt
+/test2.txt
